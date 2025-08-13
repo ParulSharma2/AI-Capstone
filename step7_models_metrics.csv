@@ -1,0 +1,4 @@
+model,best_params,auc,ap,thr,acc,prec,rec,f1
+RandomForest,"{'rf__base_estimator__max_depth': None, 'rf__base_estimator__min_samples_leaf': 1, 'rf__base_estimator__n_estimators': 200}",0.927,0.948,0.385,0.853,0.848,0.889,0.868
+KNN,"{'knn__base_estimator__n_neighbors': 3, 'knn__base_estimator__weights': 'uniform'}",0.881,0.846,0.667,0.836,0.844,0.857,0.85
+LogReg,{'lr__base_estimator__C': 0.1},0.879,0.862,0.285,0.819,0.818,0.857,0.837

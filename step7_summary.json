@@ -1,0 +1,11 @@
+{
+  "best_model": "logreg",
+  "best_params": "Pipeline(steps=[('scaler', StandardScaler()),\n                ('clf', LogisticRegression(C=0.01, max_iter=5000))])",
+  "cv_splits": 2,
+  "metric_accuracy": 0.5,
+  "metric_precision": 0.5,
+  "metric_recall": 1.0,
+  "metric_f1": 0.6666666666666666,
+  "metric_roc_auc": 0.0,
+  "metric_avg_precision": 0.5
+}

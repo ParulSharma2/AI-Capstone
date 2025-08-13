@@ -1,0 +1,6 @@
+Python: 3.10.18 | packaged by conda-forge | (main, Jun  4 2025, 14:46:00) [Clang 18.1.8 ]
+Platform: macOS-13.1-arm64-arm-64bit
+pandas: 2.3.1
+numpy: 2.2.6
+scikit-learn: 1.7.1
+rdkit: 2024.03.6

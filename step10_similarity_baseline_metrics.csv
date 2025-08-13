@@ -1,0 +1,2 @@
+model,auc,ap,thr,acc,prec,rec,f1,n_test
+Tanimoto(max active),0.863,0.81,0.415,0.862,0.831,0.937,0.881,116

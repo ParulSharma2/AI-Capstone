@@ -1,0 +1,2 @@
+model_name,source,accuracy,recall,roc_auc,f1,notes
+Literature COX selectivity model,Author Year Journal or DOI,,,,,Fill with reported numbers to compare

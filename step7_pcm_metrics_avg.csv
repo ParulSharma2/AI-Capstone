@@ -1,0 +1,2 @@
+metrics_default_acc,metrics_default_f1,metrics_default_prec,metrics_default_rec,metrics_default_roc_auc,metrics_tuned_acc,metrics_tuned_f1,metrics_tuned_prec,metrics_tuned_rec,metrics_tuned_roc_auc
+0.843,0.859,0.888,0.832,0.925,0.848,0.868,0.876,0.862,0.925

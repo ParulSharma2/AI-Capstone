@@ -1,0 +1,3 @@
+model_name,source,accuracy,recall,roc_auc,f1,notes
+Our PCM RF tuned,This work,0.848,0.862,0.925,0.868,Averaged across group splits with threshold tuned on train
+Literature COX selectivity model,Author Year Journal or DOI,,,,,Fill with reported numbers to compare

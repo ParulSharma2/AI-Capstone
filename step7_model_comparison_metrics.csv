@@ -1,0 +1,4 @@
+model,best_params,accuracy,precision,recall,f1,roc_auc,avg_precision
+logreg,{'clf__C': 0.01},0.5,0.5,1.0,0.6666666666666666,0.0,0.5
+knn,"{'clf__n_neighbors': 3, 'clf__weights': 'uniform'}",0.5,0.5,1.0,0.6666666666666666,0.0,0.5
+rf,"{'max_depth': None, 'min_samples_leaf': 1, 'n_estimators': 200}",0.0,0.0,0.0,0.0,0.0,0.5

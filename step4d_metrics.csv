@@ -1,0 +1,2 @@
+accuracy,precision,recall,f1,roc_auc,avg_prec,n_train,n_test,confusion_matrix
+0.741,0.75,0.545,0.632,0.886,0.783,104,27,"{'tn': 14, 'fp': 2, 'fn': 5, 'tp': 6}"

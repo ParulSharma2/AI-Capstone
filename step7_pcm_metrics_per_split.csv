@@ -1,0 +1,6 @@
+random_state,n_train,n_test,threshold_tuned,metrics_default_acc,metrics_default_prec,metrics_default_rec,metrics_default_f1,metrics_default_roc_auc,metrics_tuned_acc,metrics_tuned_prec,metrics_tuned_rec,metrics_tuned_f1,metrics_tuned_roc_auc
+13,464,116,0.461,0.845,0.87,0.81,0.839,0.944,0.871,0.864,0.879,0.872,0.944
+21,464,116,0.564,0.828,0.884,0.836,0.859,0.909,0.81,0.905,0.781,0.838,0.909
+34,464,116,0.463,0.828,0.871,0.818,0.844,0.932,0.836,0.851,0.864,0.857,0.932
+55,464,116,0.464,0.897,0.932,0.873,0.902,0.946,0.905,0.906,0.921,0.913,0.946
+89,464,116,0.449,0.819,0.884,0.824,0.853,0.896,0.819,0.853,0.865,0.859,0.896
